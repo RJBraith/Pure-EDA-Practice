@@ -54,6 +54,8 @@ I created a plot of the distribution of total marriages over the period, the cor
 
 Following this plot I created a line plot by age group, I used a log scale on the Y-axis to separate the less represented age groups and increase legibility. While this slightly harms how easy it is to interpret the graph at face value, it does translate the core 'increase' or 'decrease' message of the age groups over time.
 
-Finally, I selected two years, 1990 and 2018 and calculated the percentage difference in marriages per age group. I centred the change on 0 so that negative changes are visible at a glance. Looking at this data, in particular, there is a 31% reduction in the marriage of women from 1990 to present, The bar chart helps to demonstrate where the changes occur: ![image](https://user-images.githubusercontent.com/68555817/133647680-8424960e-5816-4aad-ad50-ba79dd09edf9.png)
+Finally, I selected two years, 1990 and 2018 and calculated the percentage difference in marriages per age group. I centred the change on 0 so that negative changes are visible at a glance. Looking at this data, in particular, there is a 31% reduction in the marriage of women from 1990 to present, The bar chart helps to demonstrate where the changes occur: 
+
+![image](https://user-images.githubusercontent.com/68555817/133647680-8424960e-5816-4aad-ad50-ba79dd09edf9.png)
 
 There was a 94% decrease in marriages of women under 20, along with a 60% decrease in marriages of women aged 20 to 29, The older age groups all saw increases in marriages with the largest increase being women aged 50 to 59 which increased by 149% in the 30 years suggesting people are foregoing marriage early on in life for some reason or another
